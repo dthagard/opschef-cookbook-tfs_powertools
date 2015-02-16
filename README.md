@@ -7,7 +7,6 @@ Requirements
 #### Operating Systems
 Windows
 
-e.g.
 #### packages
 - `windows` - tfs_powertools needs the windows cookbook to install the application and update the system path.
 
